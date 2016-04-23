@@ -1,8 +1,8 @@
 layout_spectrum: 0.5483351
-typography_spectrum: 0.8708627
 color:
-  saturation: 0.8951064
-  lightness: 0.1810223
+  saturation: 0
   brandStrength: 0.4758897
-  rhythmicContrast: 0.5453098
+  lightness: 0
+  rhythmicContrast: 0
+typography_spectrum: 0.8708627
 name: Brandon Carlos Scott
