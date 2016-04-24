@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.5118152
 color:
   saturation: 0.6364124
   brandStrength: 0
-  lightness: 1
+  rhythmicContrast: 0
   brandColors:
     - '#010002'
     - '#626063'
     - '#878588'
     - '#DBD9DC'
     - '#BAB8BB'
-  rhythmicContrast: 0
-typography_spectrum: 0.5118152
-layout_spectrum: 0.4924812
+  lightness: 1
+layout_spectrum: 0.7011278
 name: Brandon Carlos Scott
