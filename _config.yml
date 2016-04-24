@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.3163265
 color:
   saturation: 0.6364124
   brandStrength: 0
@@ -21,6 +22,5 @@ color:
     - '#C29762'
     - '#BDBDC6'
   lightness: 0.4279449
-typography_spectrum: 0.4860365
 layout_spectrum: 0
 name: Brandon Carlos Scott
