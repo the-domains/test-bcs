@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.3818474
 color:
   saturation: 0.6364124
   brandStrength: 0
@@ -21,6 +22,5 @@ color:
     - '#C29762'
     - '#BDBDC6'
   lightness: 0.4279449
-typography_spectrum: 0.4613319
 layout_spectrum: 0
 name: Brandon Carlos Scott
